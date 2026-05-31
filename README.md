@@ -2,6 +2,9 @@
 
 This project contains Playwright end-to-end tests for the Ndosi Simplified Automation website.
 
+## Tools needed
+* vs code
+
 ## Project structure
 
 - `tests/` - Playwright test files
